@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DT Requisition Guide
-permalink: /dtreqguide/
+permalink: /documentation/dtreqguide/
 toc: true
 ---
 
