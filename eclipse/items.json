@@ -2,31 +2,31 @@
   {
     "id": "guide",
     "title": "Summary",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "guide.md"
   },
   {
     "id": "guide--the-trip",
     "title": "Summary: The trip",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "guide.md"
   },
   {
     "id": "guide--what-to-do-next",
     "title": "Summary: What to do next",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "guide.md"
   },
   {
     "id": "guide--how-much-to-trust-this",
     "title": "Summary: How much to trust this",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "guide.md"
   },
   {
     "id": "guide--about-this-guide",
     "title": "Summary: About this guide",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "guide.md"
   },
   {
@@ -92,61 +92,61 @@
   {
     "id": "benalmadena",
     "title": "Benalmádena Costa",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/benalmadena.md"
   },
   {
     "id": "benalmadena--summary",
     "title": "Benalmádena Costa: Summary",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/benalmadena.md"
   },
   {
     "id": "benalmadena--accommodation-options",
     "title": "Benalmádena Costa: Accommodation options",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/benalmadena.md"
   },
   {
     "id": "benalmadena--eclipse-viewing",
     "title": "Benalmádena Costa: Eclipse viewing",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/benalmadena.md"
   },
   {
     "id": "benalmadena--getting-there-and-around",
     "title": "Benalmádena Costa: Getting there and around",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/benalmadena.md"
   },
   {
     "id": "benalmadena--beach-and-children",
     "title": "Benalmádena Costa: Beach and children",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/benalmadena.md"
   },
   {
     "id": "benalmadena--access-for-grandmothers",
     "title": "Benalmádena Costa: Access for grandmothers",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/benalmadena.md"
   },
   {
     "id": "benalmadena--heat-weather-and-sea",
     "title": "Benalmádena Costa: Heat, weather and sea",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/benalmadena.md"
   },
   {
     "id": "benalmadena--open-questions",
     "title": "Benalmádena Costa: Open questions",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/benalmadena.md"
   },
   {
     "id": "benalmadena--sources",
     "title": "Benalmádena Costa: Sources",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/benalmadena.md"
   },
   {
@@ -272,121 +272,121 @@
   {
     "id": "estepona",
     "title": "Central Estepona",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/estepona.md"
   },
   {
     "id": "estepona--summary",
     "title": "Central Estepona: Summary",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/estepona.md"
   },
   {
     "id": "estepona--accommodation-options",
     "title": "Central Estepona: Accommodation options",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/estepona.md"
   },
   {
     "id": "estepona--eclipse-viewing",
     "title": "Central Estepona: Eclipse viewing",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/estepona.md"
   },
   {
     "id": "estepona--getting-there-and-around",
     "title": "Central Estepona: Getting there and around",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/estepona.md"
   },
   {
     "id": "estepona--beach-and-children",
     "title": "Central Estepona: Beach and children",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/estepona.md"
   },
   {
     "id": "estepona--access-for-grandmothers",
     "title": "Central Estepona: Access for grandmothers",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/estepona.md"
   },
   {
     "id": "estepona--heat-weather-and-sea",
     "title": "Central Estepona: Heat, weather and sea",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/estepona.md"
   },
   {
     "id": "estepona--open-questions",
     "title": "Central Estepona: Open questions",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/estepona.md"
   },
   {
     "id": "estepona--sources",
     "title": "Central Estepona: Sources",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/estepona.md"
   },
   {
     "id": "fuengirola",
     "title": "Fuengirola–Los Boliches",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/fuengirola.md"
   },
   {
     "id": "fuengirola--summary",
     "title": "Fuengirola–Los Boliches: Summary",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/fuengirola.md"
   },
   {
     "id": "fuengirola--accommodation-options",
     "title": "Fuengirola–Los Boliches: Accommodation options",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/fuengirola.md"
   },
   {
     "id": "fuengirola--eclipse-viewing",
     "title": "Fuengirola–Los Boliches: Eclipse viewing",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/fuengirola.md"
   },
   {
     "id": "fuengirola--getting-there-and-around",
     "title": "Fuengirola–Los Boliches: Getting there and around",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/fuengirola.md"
   },
   {
     "id": "fuengirola--beach-and-children",
     "title": "Fuengirola–Los Boliches: Beach and children",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/fuengirola.md"
   },
   {
     "id": "fuengirola--access-for-grandmothers",
     "title": "Fuengirola–Los Boliches: Access for grandmothers",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/fuengirola.md"
   },
   {
     "id": "fuengirola--heat-weather-and-sea",
     "title": "Fuengirola–Los Boliches: Heat, weather and sea",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/fuengirola.md"
   },
   {
     "id": "fuengirola--open-questions",
     "title": "Fuengirola–Los Boliches: Open questions",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/fuengirola.md"
   },
   {
     "id": "fuengirola--sources",
     "title": "Fuengirola–Los Boliches: Sources",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/fuengirola.md"
   },
   {
@@ -632,61 +632,61 @@
   {
     "id": "roquetas-de-mar",
     "title": "Roquetas de Mar",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/roquetas-de-mar.md"
   },
   {
     "id": "roquetas-de-mar--summary",
     "title": "Roquetas de Mar: Summary",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/roquetas-de-mar.md"
   },
   {
     "id": "roquetas-de-mar--accommodation-options",
     "title": "Roquetas de Mar: Accommodation options",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/roquetas-de-mar.md"
   },
   {
     "id": "roquetas-de-mar--eclipse-viewing",
     "title": "Roquetas de Mar: Eclipse viewing",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/roquetas-de-mar.md"
   },
   {
     "id": "roquetas-de-mar--getting-there-and-around",
     "title": "Roquetas de Mar: Getting there and around",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/roquetas-de-mar.md"
   },
   {
     "id": "roquetas-de-mar--beach-and-children",
     "title": "Roquetas de Mar: Beach and children",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/roquetas-de-mar.md"
   },
   {
     "id": "roquetas-de-mar--access-for-grandmothers",
     "title": "Roquetas de Mar: Access for grandmothers",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/roquetas-de-mar.md"
   },
   {
     "id": "roquetas-de-mar--heat-weather-and-sea",
     "title": "Roquetas de Mar: Heat, weather and sea",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/roquetas-de-mar.md"
   },
   {
     "id": "roquetas-de-mar--open-questions",
     "title": "Roquetas de Mar: Open questions",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/roquetas-de-mar.md"
   },
   {
     "id": "roquetas-de-mar--sources",
     "title": "Roquetas de Mar: Sources",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/roquetas-de-mar.md"
   },
   {
@@ -872,61 +872,61 @@
   {
     "id": "torre-del-mar",
     "title": "Torre del Mar",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/torre-del-mar.md"
   },
   {
     "id": "torre-del-mar--summary",
     "title": "Torre del Mar: Summary",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/torre-del-mar.md"
   },
   {
     "id": "torre-del-mar--accommodation-options",
     "title": "Torre del Mar: Accommodation options",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/torre-del-mar.md"
   },
   {
     "id": "torre-del-mar--eclipse-viewing",
     "title": "Torre del Mar: Eclipse viewing",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/torre-del-mar.md"
   },
   {
     "id": "torre-del-mar--getting-there-and-around",
     "title": "Torre del Mar: Getting there and around",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/torre-del-mar.md"
   },
   {
     "id": "torre-del-mar--beach-and-children",
     "title": "Torre del Mar: Beach and children",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/torre-del-mar.md"
   },
   {
     "id": "torre-del-mar--access-for-grandmothers",
     "title": "Torre del Mar: Access for grandmothers",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/torre-del-mar.md"
   },
   {
     "id": "torre-del-mar--heat-weather-and-sea",
     "title": "Torre del Mar: Heat, weather and sea",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/torre-del-mar.md"
   },
   {
     "id": "torre-del-mar--open-questions",
     "title": "Torre del Mar: Open questions",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/torre-del-mar.md"
   },
   {
     "id": "torre-del-mar--sources",
     "title": "Torre del Mar: Sources",
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-27",
     "source": "locations/torre-del-mar.md"
   },
   {
@@ -992,55 +992,55 @@
   {
     "id": "family-constraints",
     "title": "What the family needs",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-27",
     "source": "facets/family-constraints.md"
   },
   {
     "id": "family-constraints--party",
     "title": "What the family needs: Party",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-27",
     "source": "facets/family-constraints.md"
   },
   {
     "id": "family-constraints--dates-and-length-of-stay",
     "title": "What the family needs: Dates and length of stay",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-27",
     "source": "facets/family-constraints.md"
   },
   {
     "id": "family-constraints--grandmothers",
     "title": "What the family needs: Grandmothers",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-27",
     "source": "facets/family-constraints.md"
   },
   {
     "id": "family-constraints--children",
     "title": "What the family needs: Children",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-27",
     "source": "facets/family-constraints.md"
   },
   {
     "id": "family-constraints--rooms-and-bathrooms",
     "title": "What the family needs: Rooms and bathrooms",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-27",
     "source": "facets/family-constraints.md"
   },
   {
     "id": "family-constraints--price-comfort-and-location",
     "title": "What the family needs: Price, comfort and location",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-27",
     "source": "facets/family-constraints.md"
   },
   {
     "id": "family-constraints--what-we-won-t-do",
     "title": "What the family needs: What we won't do",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-27",
     "source": "facets/family-constraints.md"
   },
   {
     "id": "family-constraints--sources",
     "title": "What the family needs: Sources",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-27",
     "source": "facets/family-constraints.md"
   },
   {
