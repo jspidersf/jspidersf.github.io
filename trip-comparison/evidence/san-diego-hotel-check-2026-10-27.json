@@ -1,0 +1,75 @@
+{
+  "checked_date": "2026-10-27",
+  "stay": {
+    "check_in": "2026-11-11",
+    "check_out": "2026-11-14",
+    "rooms": 1,
+    "adults": 2,
+    "children_ages": [
+      7,
+      5
+    ]
+  },
+  "method": "Logged-in Chase Travel via Chrome computer use. Selected room and cancellation inspected. No booking or final checkout. Expedia checkout observations from earlier in this same research session.",
+  "privacy": "No account identifiers, balances, login or session links published.",
+  "chase": {
+    "bahia": {
+      "room": "Resort Queens",
+      "cash_display_total": 924,
+      "points": 80374,
+      "points_boost": true,
+      "cancellation_local": "2026-11-08 00:00"
+    },
+    "catamaran": {
+      "room": "Resort Queens",
+      "cash_display_total": 1100,
+      "points": 110031,
+      "points_boost": false,
+      "cancellation_local": "2026-11-08 00:00"
+    },
+    "paradise_point": {
+      "room": "Room, 2 Queen Beds, Accessible",
+      "cash_display_total": 1278,
+      "points": 69945,
+      "cash_due_with_points_display": 159,
+      "points_boost": true,
+      "cancellation_local": "2026-11-08 16:00"
+    }
+  },
+  "benefits": {
+    "edit_benefits": "Not displayed for any of the three added hotels.",
+    "select_hotel_credit": "No eligibility displayed for any of the three. Account terms name IHG, Montage, Pendry, Omni, Virgin, Minor and Pan Pacific groups.",
+    "general_chase_earning": "8x on eligible Chase Travel spending, subject to terms; not additive to a points redemption.",
+    "edit_credit_terms": "Up to $250 per qualifying prepaid booking, at least two nights; no eligibility assumed for these three hotels."
+  },
+  "expedia": {
+    "bahia": {
+      "room": "Resort Room 2 Queens",
+      "checkout_total": 944.28,
+      "resort_fee_included": true,
+      "parking_included": true
+    },
+    "catamaran": {
+      "room": "Resort Room 2 Queens",
+      "checkout_total": 1017.96,
+      "resort_fee_included": true,
+      "parking_three_nights": 141
+    },
+    "paradise_point": {
+      "room": "Room, 2 Queen Beds, Accessible",
+      "checkout_total": 1277.88,
+      "resort_fee_included": true,
+      "parking_three_nights": 147,
+      "earlier_garden_quote": 1195,
+      "earlier_garden_quote_status": "Not reproduced in current search."
+    }
+  },
+  "photo_sources": {
+    "bahia-room": "https://www.bahiahotel.com/sites/default/files/2020-07/landing_courtside-room.jpg",
+    "bahia-junior-suite": "https://www.bahiahotel.com/sites/default/files/2026-04/junior-suite_1.jpg",
+    "catamaran-room": "https://www.catamaranresort.com/sites/default/files/2024-05/resort-room.jpg",
+    "catamaran-bay": "https://www.catamaranresort.com/sites/default/files/2024-02/hero_bayfront-view_0.jpg",
+    "paradise-room": "https://www.paradisepoint.com/site/assets/files/24291/lgq2_bedroom.448x336.jpg",
+    "paradise-pool": "https://www.paradisepoint.com/site/assets/files/48708/pool-aerial-view_2000x0.480x640.webp"
+  }
+}
